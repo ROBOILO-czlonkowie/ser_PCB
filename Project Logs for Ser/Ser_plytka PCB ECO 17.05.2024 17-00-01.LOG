@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3.3V Pin=CON13-1
+Removed Pin From Net: NetName=GND Pin=CON13-2
+Removed Pin From Net: NetName=Start Pin=CON13-3
+Removed Member From Class: ClassName=MCU-and-ICs Member=CON13
