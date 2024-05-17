@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+12 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=+12 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Member From Class: ClassName=MCU-and-ICs Member=C14
+Removed Member From Class: ClassName=MCU-and-ICs Member=C15
+Change Footprint: Footprint Not Found Goldpin 2.54mm  4Pin
+Add Pin To Net: Unknown Pin: Pin CON13-4

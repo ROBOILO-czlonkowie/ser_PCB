@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Member From Class: ClassName=Interface1 Member=C37
+Change Footprint: Footprint Not Found Goldpin 2.54mm  4Pin
+Add Pin To Net: Unknown Pin: Pin CON13-4

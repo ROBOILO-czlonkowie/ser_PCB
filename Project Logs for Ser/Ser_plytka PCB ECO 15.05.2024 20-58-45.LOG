@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=Channel-A2 Member=Q?
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q6
+Change Component Designator: OldDesignator=Q? NewDesignator=Q7
+Change Component Designator: OldDesignator=Q? NewDesignator=Q8
+Added Member To Class: ClassName=Channel-A2 Member=Component Q1 Model?
+Added Member To Class: ClassName=Channel-A2 Member=Component Q2 Model?
+Added Member To Class: ClassName=Channel-A2 Member=Component Q3 Model?
+Added Member To Class: ClassName=Channel-A2 Member=Component Q4 Model?
+Added Member To Class: ClassName=Channel-B2 Member=Component Q5 Model?
+Added Member To Class: ClassName=Channel-B2 Member=Component Q7 Model?
+Added Member To Class: ClassName=Channel-B2 Member=Component Q8 Model?

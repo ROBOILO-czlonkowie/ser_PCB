@@ -1,0 +1,4 @@
+Remove Pin=CON13-4 From Net=Kill Switch
+Change Component Footprint: Designator=CON13 Old Footprint=Goldpin 2.54mm  4Pin New Footprint=BM03B-SRSS-TB
+Change Component Designator: OldDesignator=IC7 NewDesignator=IC?
+Change Component Designator: OldDesignator=J1 NewDesignator=J?

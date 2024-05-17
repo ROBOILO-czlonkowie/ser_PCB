@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=H2A Pin=Q1-4
+Removed Pin From Net: NetName=VCC Pin=Q1-5_8
+Removed Pin From Net: NetName=H1A Pin=Q4-4
+Removed Pin From Net: NetName=VCC Pin=Q4-5_8
+Removed Pin From Net: NetName=L2A Pin=Q5-4
+Removed Pin From Net: NetName=AHS Pin=Q5-5_8
+Removed Member From Class: ClassName=Channel-A2 Member=Q1
+Removed Member From Class: ClassName=Channel-A2 Member=Q4
+Removed Member From Class: ClassName=Channel-A2 Member=Q5
+Added Component: Designator=Q?(DFN 3X3)
+Added Component: Designator=Q?(DFN 3X3)
+Added Component: Designator=Q?(DFN 3X3)
+Added Component: Designator=Q?(DFN 3X3)
+Added Pin To Net: NetName=AHS Pin=Q?-1
+Added Pin To Net: NetName=NetIC4_3 Pin=Q?-1
+Added Pin To Net: NetName=NetIC4_3 Pin=Q?-1
+Added Pin To Net: NetName=V1A Pin=Q?-1
+Added Pin To Net: NetName=AHS Pin=Q?-2
+Added Pin To Net: NetName=NetIC4_3 Pin=Q?-2
+Added Pin To Net: NetName=NetIC4_3 Pin=Q?-2
+Added Pin To Net: NetName=V1A Pin=Q?-2
+Added Pin To Net: NetName=AHS Pin=Q?-3
+Added Pin To Net: NetName=NetIC4_3 Pin=Q?-3
+Added Pin To Net: NetName=NetIC4_3 Pin=Q?-3
+Added Pin To Net: NetName=V1A Pin=Q?-3
+Added Pin To Net: NetName=H1A Pin=Q?-4
+Added Pin To Net: NetName=H2A Pin=Q?-4
+Added Pin To Net: NetName=L1A Pin=Q?-4
+Added Pin To Net: NetName=L2A Pin=Q?-4
+Added Pin To Net: NetName=AHS Pin=Q?-5_8
+Added Pin To Net: NetName=V1A Pin=Q?-5_8
+Added Pin To Net: NetName=VCC Pin=Q?-5_8
+Added Pin To Net: NetName=VCC Pin=Q?-5_8
+Added Member To Class: ClassName=Channel-A2 Member=Component Q? Model?
+Added Member To Class: ClassName=Channel-A2 Member=Component Q? Model?
+Added Member To Class: ClassName=Channel-A2 Member=Component Q? Model?
+Added Member To Class: ClassName=Channel-A2 Member=Component Q? Model?
+Added Member To Class: ClassName=Channel-B2 Member=Component Q? Model?
+Added Member To Class: ClassName=Channel-B2 Member=Component Q? Model?
+Added Member To Class: ClassName=Channel-B2 Member=Component Q? Model?

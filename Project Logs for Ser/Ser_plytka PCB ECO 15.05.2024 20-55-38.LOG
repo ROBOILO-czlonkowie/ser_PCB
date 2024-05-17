@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=H2B Pin=Q2-4
+Removed Pin From Net: NetName=VCC Pin=Q2-5_8
+Removed Pin From Net: NetName=H1B Pin=Q3-4
+Removed Pin From Net: NetName=VCC Pin=Q3-5_8
+Removed Pin From Net: NetName=L2B Pin=Q6-4
+Removed Pin From Net: NetName=AHS B Pin=Q6-5_8
+Removed Pin From Net: NetName=L1B Pin=Q7-4
+Removed Pin From Net: NetName=V1B Pin=Q7-5_8
+Removed Member From Class: ClassName=Channel-B2 Member=Q2
+Removed Member From Class: ClassName=Channel-B2 Member=Q3
+Removed Member From Class: ClassName=Channel-B2 Member=Q6
+Removed Member From Class: ClassName=Channel-B2 Member=Q7
+Change Footprint: Footprint Not Found DFN 3.3x3.3
+Change Footprint: Footprint Not Found DFN 3.3x3.3
+Change Footprint: Footprint Not Found DFN 3.3x3.3
+Add Component: Footprint Not Found DFN 3.3x3.3
+Added Component: Designator=Q?(DFN 3X3)
+Added Component: Designator=Q?(DFN 3X3)
+Added Component: Designator=Q?(DFN 3X3)
+Added Component: Designator=Q?(DFN 3X3)
+Add Pin To Net: Unknown Pin: Pin Q1-1_3
+Add Pin To Net: Unknown Pin: Pin Q4-1_3
+Add Pin To Net: Unknown Pin: Pin Q5-1_3
+Add Pin To Net: Unknown Pin: Pin Q8-1_3
+Add Pin To Net: Unknown Pin: Pin Q8-4
+Add Pin To Net: Unknown Pin: Pin Q8-5_8
+Added Pin To Net: NetName=AHS B Pin=Q?-1
+Added Pin To Net: NetName=NetIC6_3 Pin=Q?-1
+Added Pin To Net: NetName=NetIC6_3 Pin=Q?-1
+Added Pin To Net: NetName=V1B Pin=Q?-1
+Added Pin To Net: NetName=AHS B Pin=Q?-2
+Added Pin To Net: NetName=NetIC6_3 Pin=Q?-2
+Added Pin To Net: NetName=NetIC6_3 Pin=Q?-2
+Added Pin To Net: NetName=V1B Pin=Q?-2
+Added Pin To Net: NetName=AHS B Pin=Q?-3
+Added Pin To Net: NetName=NetIC6_3 Pin=Q?-3
+Added Pin To Net: NetName=NetIC6_3 Pin=Q?-3
+Added Pin To Net: NetName=V1B Pin=Q?-3
+Added Pin To Net: NetName=H1B Pin=Q?-4
+Added Pin To Net: NetName=H2B Pin=Q?-4
+Added Pin To Net: NetName=L1B Pin=Q?-4
+Added Pin To Net: NetName=L2B Pin=Q?-4
+Added Pin To Net: NetName=AHS B Pin=Q?-5_8
+Added Pin To Net: NetName=V1B Pin=Q?-5_8
+Added Pin To Net: NetName=VCC Pin=Q?-5_8
+Added Pin To Net: NetName=VCC Pin=Q?-5_8
+Add Class Member: Failed to add class member : Component Q8 AON7230
+Added Member To Class: ClassName=Channel-B2 Member=Component Q? Model?
+Added Member To Class: ClassName=Channel-B2 Member=Component Q? Model?
+Added Member To Class: ClassName=Channel-B2 Member=Component Q? Model?
+Added Member To Class: ClassName=Channel-B2 Member=Component Q? Model?

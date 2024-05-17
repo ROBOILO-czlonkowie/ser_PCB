@@ -1,0 +1,8 @@
+Change Footprint: Footprint Not Found Goldpin 2.54mm  4Pin
+Change Component Footprint: Designator=CON4 Old Footprint=SM04B-SRSS-TB New Footprint=BM04B-SRSS-TB
+Add Pin To Net: Unknown Pin: Pin CON13-4
+Added Room: Name=Channel-A2
+Added Room: Name=Channel-B2
+Added Room: Name=Connectors-and-Filters
+Added Room: Name=Interface1
+Added Room: Name=MCU-and-ICs

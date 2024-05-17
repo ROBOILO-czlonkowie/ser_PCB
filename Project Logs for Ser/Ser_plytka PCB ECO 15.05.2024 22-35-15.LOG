@@ -1,0 +1,4 @@
+Change Footprint: Footprint Not Found Goldpin 2.54mm  4Pin
+Change Component Footprint: Designator=C23 Old Footprint=C 0402 New Footprint=C 0805
+Change Component Footprint: Designator=C27 Old Footprint=C 0402 New Footprint=C 0805
+Add Pin To Net: Unknown Pin: Pin CON13-4
