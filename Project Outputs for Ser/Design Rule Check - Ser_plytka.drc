@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\mt150\OneDrive\Pulpit\ser_PCB\Ser_plytka.pcbdoc
-Date     : 17.05.2024
-Time     : 17:42:19
+PCB File : C:\Users\mt150\Desktop\ser_PCB\Ser_plytka.pcbdoc
+Date     : 19.05.2024
+Time     : 19:07:09
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
    Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad Q1-4(17.225mm,19.85mm) on Top Layer And Region (0 hole(s)) Top Layer 
@@ -44,4 +44,4 @@ Rule Violations :0
 
 Violations Detected : 5
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

@@ -1,0 +1,7 @@
+Added Component: Designator=CON2(BM03B-SRSS-TB)
+Added Pin To Net: NetName=GND Pin=CON2-1
+Added Pin To Net: NetName=5V Pin=CON2-3
+Added Pin To Net: NetName=Servo PWM Pin=CON2-2
+Added Pin To Net: NetName=Servo PWM Pin=IC1-37
+Added Net: Name=Servo PWM
+Added Member To Class: ClassName=MCU-and-ICs Member=Component CON2 3 Pin
