@@ -1,0 +1,16 @@
+Added Component: Designator=AC?(LGA-14_1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LSM6DSOXTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lsm6dsoxtr/stmicroelectronics?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/lsm6dsox.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LSM6DSOXTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-LSM6DSOXTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LSM6DSOXTR?qs=l7cgNqFNU1i9dcjzItLpVQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=AC?-5
+Added Pin To Net: NetName=GND Pin=AC?-6
+Added Pin To Net: NetName=GND Pin=AC?-7
+Added Pin To Net: NetName=3.3V Pin=AC?-8
+Added Pin To Net: NetName=3.3V Pin=AC?-12
+Added Pin To Net: NetName=SCL Pin=AC?-13
+Added Pin To Net: NetName=SDA Pin=AC?-14
+Added Member To Class: ClassName=MCU-and-ICs Member=Component AC? LSM6DSOXTR

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C28-1
+Change Component Comment : Designator=C30 Old Comment=22uF New Comment=40uF
+Change Component Comment : Designator=C31 Old Comment=22uF New Comment=40uF
+Added Pin To Net: NetName=+12 Pin=C28-1
