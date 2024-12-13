@@ -75,6 +75,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IEIPWQFT
 
 [Document3]
+DocumentPath=DC-DC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EEFWGVOE
+
+[Document4]
 DocumentPath=Connectors-and-Filters.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWJSUWTR
 
-[Document4]
+[Document5]
 DocumentPath=Interface1.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNCWZKSB
 
-[Document5]
+[Document6]
 DocumentPath=MCU-and-ICs.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXNOGNJB
 
-[Document6]
+[Document7]
 DocumentPath=ser_sch_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CEOFFKDG
 
-[Document7]
+[Document8]
 DocumentPath=ser_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,23 +175,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGYSOEDB
-
-[Document8]
-DocumentPath=..\drv8251ddar_module_PCB\DC-DC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EEFWGVOE
 
 [Document9]
 DocumentPath=v3.0_ser_plytka.PcbDoc

@@ -1,5 +1,5 @@
-Record=TopLevelDocument|FileName=Connectors-and-Filters.schdoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Connectors-and-Filters.schdoc|FileName=DC-DC.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=Connectors-and-Filters.schdoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connectors-and-Filters.schdoc|FileName=DC-DC.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Connectors-and-Filters.schdoc|FileName=dc_drivers.schdoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Connectors-and-Filters.schdoc|FileName=Interface1.schdoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Connectors-and-Filters.schdoc|FileName=MCU-and-ICs.schdoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connectors-and-Filters.schdoc|FileName=Interface1.schdoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connectors-and-Filters.schdoc|FileName=MCU-and-ICs.schdoc|SheetNumber=5
