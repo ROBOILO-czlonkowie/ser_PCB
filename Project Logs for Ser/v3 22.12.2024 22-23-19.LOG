@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=CON1 Old Footprint=BM03B-SRSS-TB New Footprint=SMD PAD
+Change Component Footprint: Designator=CON2 Old Footprint=BM03B-SRSS-TB New Footprint=SMD PAD
+Change Component Footprint: Designator=CON6 Old Footprint=BM03B-SRSS-TB New Footprint=SMD PAD
+Change Component Footprint: Designator=CON7 Old Footprint=BM03B-SRSS-TB New Footprint=SMD PAD
+Change Component Comment : Designator=CON1 Old Comment=3 Pin New Comment=1 Pin
+Change Component Comment : Designator=CON2 Old Comment=3 Pin New Comment=1 Pin
+Change Component Comment : Designator=CON6 Old Comment=3 Pin New Comment=1 Pin
+Change Component Comment : Designator=CON7 Old Comment=3 Pin New Comment=1 Pin
+Added Room: Name=DC-DC
