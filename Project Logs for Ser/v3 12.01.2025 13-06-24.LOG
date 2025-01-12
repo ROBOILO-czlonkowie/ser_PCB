@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=12V Pin=C17-1
+Removed Pin From Net: NetName=3.3V Pin=C38-1
+Removed Pin From Net: NetName=5V Pin=IC8-1
+Removed Pin From Net: NetName=GND Pin=IC8-2
+Removed Pin From Net: NetName=3.3V Pin=IC8-5
+Removed Pin From Net: NetName=12V Pin=IC9-1
+Removed Pin From Net: NetName=GND Pin=IC9-2
+Removed Pin From Net: NetName=5V Pin=IC9-5
+Removed Pin From Net: NetName=GND Pin=R17-2
+Removed Pin From Net: NetName=3.3V Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Pin From Net: NetName=5V Pin=R20-1
+Removed Member From Class: ClassName=DC-DC Member=R17
+Removed Member From Class: ClassName=DC-DC Member=R18
+Removed Member From Class: ClassName=DC-DC Member=R19
+Removed Member From Class: ClassName=DC-DC Member=R20
+Change Component Footprint: Designator=C17 Old Footprint=C 0603 New Footprint=C 0805
+Change Component Footprint: Designator=C25 Old Footprint=C 0603 New Footprint=C 0805
+Change Component Footprint: Designator=C37 Old Footprint=C 0603 New Footprint=C 0805
+Change Component Footprint: Designator=C38 Old Footprint=C 0603 New Footprint=C 0805
+Change Component Footprint: Designator=IC8 Old Footprint=SOT95P280X145-5N New Footprint=SOT229P700X180-4N
+Change Component Footprint: Designator=IC9 Old Footprint=SOT95P280X145-5N New Footprint=SOT229P700X180-4N
+Change Component Comment : Designator=C17 Old Comment=1uF New Comment=22uF
+Change Component Comment : Designator=C37 Old Comment=1uF New Comment=22uF
+Change Component Comment : Designator=C25 Old Comment=2.2uF New Comment=10uF
+Change Component Comment : Designator=C38 Old Comment=2.2uF New Comment=10uF
+Change Component Comment : Designator=IC8 Old Comment=TPS7A2433DBVR New Comment=AMS1117-3.3
+Change Component Comment : Designator=IC9 Old Comment=TPS7A2433DBVR New Comment=AMS1117-3.3
+Change Component Designator: OldDesignator=GND NewDesignator=CON12
+Change Component Designator: OldDesignator=M1+ NewDesignator=CON1
+Change Component Designator: OldDesignator=M1- NewDesignator=CON6
+Change Component Designator: OldDesignator=M2+ NewDesignator=CON13
+Change Component Designator: OldDesignator=M2- NewDesignator=CON15
+Change Component Designator: OldDesignator=M3+ NewDesignator=CON2
+Change Component Designator: OldDesignator=M3- NewDesignator=CON7
+Change Component Designator: OldDesignator=M4+ NewDesignator=CON14
+Change Component Designator: OldDesignator=M4- NewDesignator=CON16
+Change Component Designator: OldDesignator=VCC NewDesignator=CON11
+Change component parameters: Designator = "IC8" ("IC8"); Footprint = "SOT95P280X145-5N"; UniqueID = "\QBLFUDMN" ("\QBLFUDMN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-550594.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Advanced"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC9" ("IC9"); Footprint = "SOT95P280X145-5N"; UniqueID = "\HULAEYHI" ("\HULAEYHI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-550594.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Advanced"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C17-1
+Added Pin To Net: NetName=12V Pin=C38-1
+Added Pin To Net: NetName=3.3V Pin=IC8-2
+Added Pin To Net: NetName=5V Pin=IC9-2
