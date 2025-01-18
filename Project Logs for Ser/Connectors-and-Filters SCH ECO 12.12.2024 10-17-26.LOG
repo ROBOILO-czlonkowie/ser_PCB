@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=CON1 Old Footprint=SMD PAD New Footprint=BM03B-SRSS-TB
+Change Component Footprint: Designator=CON2 Old Footprint=SMD PAD New Footprint=BM03B-SRSS-TB
+Change Component Footprint: Designator=CON6 Old Footprint=SMD PAD New Footprint=BM03B-SRSS-TB
+Change Component Footprint: Designator=CON7 Old Footprint=SMD PAD New Footprint=BM03B-SRSS-TB
+Change Component Comment: Designator=CON1 Old Comment=1 Pin New Comment=3 Pin
+Change Component Comment: Designator=CON2 Old Comment=1 Pin New Comment=3 Pin
+Change Component Comment: Designator=CON6 Old Comment=1 Pin New Comment=3 Pin
+Change Component Comment: Designator=CON7 Old Comment=1 Pin New Comment=3 Pin

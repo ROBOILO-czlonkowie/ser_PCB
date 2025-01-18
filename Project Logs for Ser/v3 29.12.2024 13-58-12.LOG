@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PWM A3 Pin=IC2-2
+Added Pin To Net: NetName=PWM A4 Pin=IC2-3
+Added Pin To Net: NetName=PWM B3 Pin=IC4-2
+Added Pin To Net: NetName=PWM B4 Pin=IC4-3
+Added Room: Name=DC-DC

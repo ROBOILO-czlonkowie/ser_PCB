@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetCON6_1 Pin=IC3-8
+Removed Pin From Net: NetName=NetCON7_1 Pin=IC4-8
+Added Component: Designator=C29(C 0603)
+Added Component: Designator=CON13(SMD PAD)
+Added Component: Designator=CON14(SMD PAD)
+Added Component: Designator=CON15(SMD PAD)
+Added Component: Designator=CON16(SMD PAD)
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetCON6_1 Pin=IC1-6
+Added Pin To Net: NetName=NetCON7_1 Pin=IC2-6
+Added Pin To Net: NetName=NetCON13_1 Pin=CON13-1
+Added Pin To Net: NetName=NetCON13_1 Pin=IC3-8
+Added Net: Name=NetCON13_1
+Added Pin To Net: NetName=NetCON14_1 Pin=CON14-1
+Added Pin To Net: NetName=NetCON14_1 Pin=IC4-8
+Added Net: Name=NetCON14_1
+Added Pin To Net: NetName=NetCON15_1 Pin=CON15-1
+Added Pin To Net: NetName=NetCON15_1 Pin=IC3-6
+Added Net: Name=NetCON15_1
+Added Pin To Net: NetName=NetCON16_1 Pin=CON16-1
+Added Pin To Net: NetName=NetCON16_1 Pin=IC4-6
+Added Net: Name=NetCON16_1
+Added Member To Class: ClassName=DC-DC Member=Component C29 100nF
+Added Member To Class: ClassName=dc_drivers Member=Component CON13 1 Pin
+Added Member To Class: ClassName=dc_drivers Member=Component CON14 1 Pin
+Added Member To Class: ClassName=dc_drivers Member=Component CON15 1 Pin
+Added Member To Class: ClassName=dc_drivers Member=Component CON16 1 Pin
+Added Room: Name=DC-DC

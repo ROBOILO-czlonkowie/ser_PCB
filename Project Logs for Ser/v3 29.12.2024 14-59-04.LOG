@@ -1,0 +1,10 @@
+Added Component: Designator=Q10(DFN 5x6)
+Added Pin To Net: NetName=VCC Pin=Q10-1
+Added Pin To Net: NetName=VCC Pin=Q10-1
+Added Pin To Net: NetName=VCC Pin=Q10-2
+Added Pin To Net: NetName=VCC Pin=Q10-2
+Added Pin To Net: NetName=VCC Pin=Q10-3
+Added Pin To Net: NetName=VCC Pin=Q10-3
+Added Pin To Net: NetName=Mosfet Kill Pin=Q10-4
+Added Pin To Net: NetName=12V Pin=Q10-5_8
+Added Member To Class: ClassName=Interface1 Member=Component Q10 Model?

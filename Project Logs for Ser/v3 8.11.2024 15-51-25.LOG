@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=3.3V Pin=C30-1
+Removed Pin From Net: NetName=3.3V Pin=C31-1
+Removed Pin From Net: NetName=3.3V Pin=C32-1
+Removed Pin From Net: NetName=VCC Pin=C37-1
+Removed Pin From Net: NetName=3.3V Pin=IC1-4
+Removed Pin From Net: NetName=3.3V Pin=IC2-4
+Removed Pin From Net: NetName=3.3V Pin=IC3-4
+Removed Pin From Net: NetName=3.3V Pin=IC4-4
+Removed Pin From Net: NetName=VCC Pin=IC8-1
+Removed Pin From Net: NetName=VCC Pin=IC8-3
+Removed Pin From Net: NetName=3.3V Pin=L1-2
+Removed Pin From Net: NetName=3.3V Pin=R15-1
+Change Component Comment : Designator=L1 Old Comment=4.7uH New Comment=6.8uH
+Change Component Comment : Designator=R15 Old Comment=31.3K New Comment=100k
+Change Component Comment : Designator=C30 Old Comment=40uF New Comment=22uF
+Change Component Comment : Designator=C31 Old Comment=40uF New Comment=22uF
+Added Pin To Net: NetName=5V Pin=C30-1
+Added Pin To Net: NetName=5V Pin=C31-1
+Added Pin To Net: NetName=5V Pin=C32-1
+Added Pin To Net: NetName=5V Pin=C37-1
+Added Pin To Net: NetName=5V Pin=IC1-4
+Added Pin To Net: NetName=5V Pin=IC2-4
+Added Pin To Net: NetName=5V Pin=IC3-4
+Added Pin To Net: NetName=5V Pin=IC4-4
+Added Pin To Net: NetName=5V Pin=IC8-1
+Added Pin To Net: NetName=5V Pin=IC8-3
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=5V Pin=R15-1
